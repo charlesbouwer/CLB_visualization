@@ -1,11 +1,13 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
-
-This is a temporary script file.
+The how to:
 https://stackoverflow.com/questions/58043978/display-data-on-real-map-based-on-postal-code
 https://gist.github.com/samik-saha/c8c565e5bf4d2d203c210d90573141ef
-https://www12.statcan.gc.ca/census-recensement/alternative_alternatif.cfm?archived=1&l=eng&dispext=zip&teng=gfsa000b11a_e.zip&k=%20%20%20%2063981&loc=http://www12.statcan.gc.ca/census-recensement/2011/geo/bound-limit/files-fichiers/gfsa000b11a_e.zip
+
+Files you will need:
+https://www12.statcan.gc.ca/census-recensement/2011/geo/bound-limit/bound-limit-2016-eng.cfm
+https://open.canada.ca/data/en/dataset/ce99c2c9-c224-43eb-aef0-1f379b70c91d
+
 """
 
 import geopandas
